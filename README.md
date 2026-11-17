@@ -9,4 +9,4 @@ Here are some facts about me:
 - 🤖 AI stack: Personnally, I use OpenCode + Local models or Mistral. Professionnally, I use my client's AI stack.
 - 💙 Linux and Open-Source User
 
-[![roadmap.sh](https://roadmap.sh/card/tall/6846de18846bd2eeed8781af?variant=dark&roadmaps=python%2Cdevops)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/6846de18846bd2eeed8781af?variant=dark&roadmaps=%2Cclaude-code%2Cai-product-builder%2Cpython)](https://roadmap.sh)
